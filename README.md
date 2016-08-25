@@ -1,2 +1,2 @@
 # hello-world
-helo-world is the first formal communication landmark that a learner expresses in a new frontier.
+helo-world is the first landmark that a learner establishes in a new frontier.
